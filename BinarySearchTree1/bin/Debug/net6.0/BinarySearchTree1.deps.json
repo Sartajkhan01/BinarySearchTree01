@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BinarySearchTree1/1.0.0": {
+        "runtime": {
+          "BinarySearchTree1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearchTree1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
